@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SockCommander - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\shmily\LOCALS~1\Temp\RSP1D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/SockCommander.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\lectures\virus_ppt\本科教学\教学PPT(新)\codeapp\SimpleHorse\SockCommander\SockCommanderDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\shmily\LOCALS~1\Temp\RSP1D.tmp" 
+Creating temporary file "C:\DOCUME~1\shmily\LOCALS~1\Temp\RSP1E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SockCommander.pdb" /debug /machine:I386 /out:"Debug/SockCommander.exe" /pdbtype:sept 
+".\Debug\CommandSocket.obj"
+".\Debug\SockCommander.obj"
+".\Debug\SockCommanderDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SockCommander.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\shmily\LOCALS~1\Temp\RSP1E.tmp"
+<h3>Output Window</h3>
+Compiling...
+SockCommanderDlg.cpp
+D:\lectures\virus_ppt\本科教学\教学PPT(新)\codeapp\SimpleHorse\SockCommander\SockCommanderDlg.cpp(351) : warning C4244: 'argument' : conversion from 'unsigned long' to 'short', possible loss of data
+D:\lectures\virus_ppt\本科教学\教学PPT(新)\codeapp\SimpleHorse\SockCommander\SockCommanderDlg.cpp(353) : warning C4018: '!=' : signed/unsigned mismatch
+D:\lectures\virus_ppt\本科教学\教学PPT(新)\codeapp\SimpleHorse\SockCommander\SockCommanderDlg.cpp(402) : warning C4244: 'argument' : conversion from 'unsigned long' to 'short', possible loss of data
+D:\lectures\virus_ppt\本科教学\教学PPT(新)\codeapp\SimpleHorse\SockCommander\SockCommanderDlg.cpp(404) : warning C4018: '!=' : signed/unsigned mismatch
+Linking...
+
+
+
+<h3>Results</h3>
+SockCommander.exe - 0 error(s), 4 warning(s)
+</pre>
+</body>
+</html>

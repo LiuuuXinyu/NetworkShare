@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by SockListener.mak
+
+.\SockListener.cpp : \
+	".\SockListener.h"\
+	".\SockListenerDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\SockListener.rc : \
+	".\res\SockListener.ico"\
+	".\res\SockListener.rc2"\
+	
+
+.\SockListenerDlg.cpp : \
+	".\SockListener.h"\
+	".\SockListenerDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
