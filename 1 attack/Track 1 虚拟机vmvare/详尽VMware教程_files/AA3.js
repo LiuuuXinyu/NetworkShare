@@ -1,0 +1,1 @@
+document.write('<a href=http://www.vamsoft.cn target=_blank><img src=http://www.5dmail.net/image/orf_2145.gif width=468 height=60 border=0 alt="ORF反垃圾邮件系统"></a>')

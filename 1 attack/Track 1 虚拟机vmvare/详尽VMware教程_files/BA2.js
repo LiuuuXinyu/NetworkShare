@@ -1,0 +1,1 @@
+document.write('<a href=http://www.5dmail.net/html/2003-10-24/20031024104312.htm target=_blank><img src=http://www.5dmail.net/image/ad_250160.gif width=250 height=160 border=0 alt="ÓÊ¼þÏµÍ³"></a>')

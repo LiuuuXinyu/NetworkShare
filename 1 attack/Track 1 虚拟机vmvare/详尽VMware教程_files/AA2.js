@@ -1,0 +1,1 @@
+document.write('<a href=http://www.mailer.com.cn target=_blank><img src=http://www.5dmail.net/image/jindi_new.gif width=715 height=60 border=0 alt="金笛邮件系统"></a>')

@@ -1,0 +1,426 @@
+
+Windows 6.1 (Build 7600)
+Product Name : Windows 7 Ultimate
+Memory Available to Windows: 2,053,428Kb
+Exe Name : E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\SSS.exe
+Debug Log Opened 2013-07-30 10:51:53
+
+
+Starting security scanner...
+SSS folder files
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\LoadScanner.log 26035 A
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\SSS.elf 74082 A
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\SSS.exe 4850688 A
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config 0 D
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\options.dat 1532 A
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\Audits 0 D
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\Groups 0 D
+E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\Rules 0 D
+OpenMutex
+Mutex = 0x00000000
+CreateMutex
+Mutex = 0x00000240
+Geting modules from registry
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSSGUIForms.ocx
+Size = 3537408
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.181
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\DNSScan.dll
+Size = 733696
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.39
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\FileScan.dll
+Size = 696320
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.41
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\FingerScan.dll
+Size = 403456
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.26
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\FTPScan.dll
+Size = 839168
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.43
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\HTTPScan.dll
+Size = 1255424
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.77
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\IdentScan.dll
+Size = 402944
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.32
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\IMAPScan.dll
+Size = 678912
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.34
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\LDAPScan.dll
+Size = 685568
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.33
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\NetBIOSScan.dll
+Size = 858112
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.69
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\NFSScan.dll
+Size = 412672
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.42
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\NNTPScan.dll
+Size = 680448
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.29
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\PortScan.dll
+Size = 715776
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.61
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SMTPScan.dll
+Size = 698880
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.37
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SNMPScan.dll
+Size = 707072
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.37
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSHScan.dll
+Size = 684032
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.34
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\TelnetScan.dll
+Size = 683520
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.27
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SquidScan.dll
+Size = 680960
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.30
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSSGUIEx.dll
+Size = 1665536
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.37
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSLScan.dll
+Size = 458752
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.37
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\RService.dll
+Size = 1107456
+Product Version : 1.0.0.0
+File Version : 1.0.0.60
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\ScriptScan.dll
+Size = 1172480
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.30
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSSGUIScript.dll
+Size = 2303488
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.16
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSSGUIDoS.dll
+Size = 1576448
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.29
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SSSHistory.dll
+Size = 1598976
+Company Name : Safety-lab
+File Description : Security Scanner History
+Product Version : 1.0.0.0
+File Version : 1.0.0.28
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\HTMLReport.dll
+Size = 2075136
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.54
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\CHMReport.dll
+Size = 861696
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.53
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\PDFReport.dll
+Size = 895488
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.45
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\XMLReport.dll
+Size = 789504
+Company Name : Safety-Lab
+File Description : ShadowSecurityScanner XML Report
+Product Version : 1.0.0.0
+File Version : 1.0.0.25
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\SQLReport.dll
+Size = 1588224
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.7
+
+
+Module = C:\PROGRA~1\COMMON~1\SAFETY~1\UserAdmin.dll
+Size = 857600
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.53
+
+
+Module = C:\Program Files\Common Files\Safety-lab\SSSLibrary.dll
+Size = 1365504
+Company Name : Safety-lab
+Product Version : 1.0.0.0
+File Version : 1.0.0.128
+
+
+Init Registry
+Exe path = E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\
+Update reg value "Path"
+Update reg value "Rules"
+Update reg value "GUI"
+Check reg value "LanguageDB"
+Read reg value "LanguageDB"
+LanguageFile = C:\Program Files\Common Files\Safety-lab\ssslangdb.msb
+Check reg value "Options"
+Check reg value "Rules"
+Init COM Objects
+Create IOptions
+Set default options
+Create IAppSecurityScanner
+Create IScheduler
+Check file options exists
+Load options
+Check file scheduler exists
+Check language file exists
+Load language file
+Load default ports list from file E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\ports.dat
+EurekaLog 5.1.10
+
+Application:
+-------------------------------------------------------
+  1.1 Start Date      : Tue, 30 Jul 2013 10:51:52 +0800
+  1.2 Name/Description: Security Scanner GUI
+  1.3 Version Number  : 7.0.0.196
+  1.4 Parameters      : 
+  1.5 Compilation Date: Thu, 2 Nov 2006 22:45:21 +0800
+
+Exception:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  2.1 Date   : Tue, 30 Jul 2013 10:51:53 +0800
+  2.2 Address: 0075747F
+  2.3 Module : SSS.exe
+  2.4 Type   : EOleException
+  2.5 Message: Cannot open file "E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack\Config\ports.dat". 系统找不到指定的文件。.
+
+Active Controls:
+---------------------------------
+  3.1 Form Class   : TStartupForm
+  3.2 Form Text    : Loading...
+  3.3 Control Class: TStartupForm
+  3.4 Control Text : Loading...
+
+Computer:
+---------------------------------------------------------------------
+  4.1 Name          : SUDA-20121101QC
+  4.2 User          : Administrator
+  4.3 Total Memory  : 2005 Mb
+  4.4 Free Memory   : 816 Mb
+  4.5 Total Disk    : 30.77 Gb
+  4.6 Free Disk     : 6.07 Gb
+  4.7 System Up Time: 1 hour, 39 minutes, 15 seconds
+  4.8 Processor     : Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz
+  4.9 Display Mode  : 1280 x 1024, 32 bit
+
+Operating System:
+---------------------------------------
+  5.1 Type    : Microsoft Windows Vista
+  5.2 Build # : 7600
+  5.3 Update  : 
+  5.4 Language: Chinese (Simplified)
+
+Network:
+---------------------------------
+  6.1 IP Address: 172.021.007.221
+  6.2 Submask   : 255.255.255.000
+  6.3 Gateway   : 172.021.007.254
+  6.4 DNS 1     : 172.021.092.013
+  6.5 DNS 2     : 172.021.000.001
+  6.6 DHCP      : ON             
+
+Call Stack Information:
+------------------------------------------------------------------
+|Address |Module      |Unit      |Class|Procedure/Method   |Line |
+------------------------------------------------------------------
+| Running Thread: ID=616; Priority=0; Class=; [Main]             |
+|----------------------------------------------------------------|
+|0040750C|SSS.exe     |system.pas|     |_CheckAutoResult   |18055|
+|0075747F|SSS.exe     |SSS.dpr   |     |Loading            |910  |
+|0040751D|SSS.exe     |system.pas|     |_CheckAutoResult   |18061|
+|0040750C|SSS.exe     |system.pas|     |_CheckAutoResult   |18055|
+|0075747F|SSS.exe     |SSS.dpr   |     |Loading            |910  |
+|00755CA0|SSS.exe     |SSS.dpr   |     |Loading            |607  |
+|0075F429|SSS.exe     |SSS.dpr   |     |Initialization     |1255 |
+|76061192|kernel32.dll|          |     |BaseThreadInitThunk|     |
+------------------------------------------------------------------
+
+Modules Information:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Handle  |Name             |Description                                     |Version           |Size    |Modified           |Path                                                                                                         |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|00400000|SSS.exe          |Security Scanner GUI                            |7.0.0.196         |4850688 |2006-11-08 14:55:50|E:\workon\教学相关\实验配置\网络实验\1\Track 2 SSS\Secure Shadow Scanner\Secure Shadow Scanner\Crack         |
+|03E50000|SSSLibrary.dll   |                                                |1.0.0.128         |1365504 |2006-11-20 11:38:40|C:\Program Files\Common Files\Safety-lab                                                                     |
+|643E0000|safemon.dll      |360安全卫士 网盾防护模块                        |8.2.2.1420        |1279408 |2013-06-19 19:16:32|D:\Program Files\360\360safe\safemon                                                                         |
+|6E720000|mpr.dll          |多提供程序路由器 DLL                            |6.1.7600.16385    |64000   |2009-07-14 09:15:42|C:\Windows\system32                                                                                          |
+|6E870000|winspool.drv     |Windows 后台处理程序驱动程序                    |6.1.7600.16385    |319488  |2009-07-14 09:14:10|C:\Windows\system32                                                                                          |
+|71380000|wsock32.dll      |Windows Socket 32-Bit DLL                       |6.1.7600.16385    |15360   |2009-07-14 09:16:22|C:\Windows\system32                                                                                          |
+|72E10000|olepro32.dll     |                                                |6.1.7600.16385    |90112   |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|73950000|winmm.dll        |MCI API DLL                                     |6.1.7600.16385    |194048  |2009-07-14 09:16:20|C:\Windows\system32                                                                                          |
+|739C0000|msimg32.dll      |GDIEXT Client DLL                               |6.1.7600.16385    |4608    |2009-07-14 09:15:46|C:\Windows\system32                                                                                          |
+|73BE0000|wkscli.dll       |Workstation Service Client DLL                  |6.1.7600.16385    |47104   |2009-07-14 09:16:20|C:\Windows\system32                                                                                          |
+|73BF0000|netutils.dll     |Net Win32 API Helpers DLL                       |6.1.7600.16385    |22016   |2009-07-14 09:16:04|C:\Windows\system32                                                                                          |
+|73C00000|NETAPI32.dll     |Net Win32 API DLL                               |6.1.7600.16385    |56832   |2009-07-14 09:16:04|C:\Windows\system32                                                                                          |
+|73D50000|WindowsCodecs.dll|Microsoft Windows Codecs Library                |6.1.7600.16385    |1011200 |2009-07-14 09:16:20|C:\Windows\system32                                                                                          |
+|74080000|dwmapi.dll       |Microsoft 桌面窗口管理器 API                    |6.1.7600.16385    |67072   |2009-07-14 09:15:14|C:\Windows\system32                                                                                          |
+|74240000|uxtheme.dll      |Microsoft UxTheme 库                            |6.1.7600.16385    |249856  |2010-03-13 12:28:50|C:\Windows\system32                                                                                          |
+|743F0000|comctl32.dll     |用户体验控件库                                  |6.10.7600.16385   |1680896 |2009-07-14 09:03:52|C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7600.16385_none_421189da2b7fabfc|
+|74960000|version.dll      |Version Checking and File Installation Libraries|6.1.7600.16385    |21504   |2009-07-14 09:16:18|C:\Windows\system32                                                                                          |
+|74C90000|rsaenh.dll       |Microsoft Enhanced Cryptographic Provider       |6.1.7600.16385    |242936  |2009-07-14 09:17:56|C:\Windows\system32                                                                                          |
+|74F10000|CRYPTSP.dll      |Cryptographic Service Provider API              |6.1.7600.16385    |78848   |2009-07-14 09:15:08|C:\Windows\system32                                                                                          |
+|752E0000|srvcli.dll       |Server Service Client DLL                       |6.1.7600.16385    |90112   |2009-07-14 09:16:16|C:\Windows\system32                                                                                          |
+|75390000|apphelp.dll      |应用程序兼容性客户端库                          |6.1.7600.16481    |292864  |2009-12-08 19:32:04|C:\Windows\system32                                                                                          |
+|753E0000|CRYPTBASE.dll    |Base cryptographic API DLL                      |6.1.7600.16385    |36864   |2009-07-14 09:15:08|C:\Windows\system32                                                                                          |
+|753F0000|SXS.DLL          |Fusion 2.5                                      |6.1.7600.16385    |380416  |2009-07-14 09:16:16|C:\Windows\system32                                                                                          |
+|75450000|RpcRtRemote.dll  |Remote RPC Extension                            |6.1.7600.16385    |45568   |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|75460000|profapi.dll      |User Profile Basic API                          |6.1.7600.16385    |31744   |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|754D0000|MSASN1.dll       |ASN.1 Runtime APIs                              |6.1.7600.16415    |34816   |2009-08-29 14:57:32|C:\Windows\system32                                                                                          |
+|755A0000|CRYPT32.dll      |加密 API32                                      |6.1.7600.16385    |1151488 |2009-07-14 09:15:08|C:\Windows\system32                                                                                          |
+|756C0000|CFGMGR32.dll     |Configuration Manager DLL                       |6.1.7600.16385    |145920  |2009-07-14 09:15:04|C:\Windows\system32                                                                                          |
+|756F0000|DEVOBJ.dll       |Device Information Set DLL                      |6.1.7600.16385    |64512   |2009-07-14 09:15:12|C:\Windows\system32                                                                                          |
+|75710000|KERNELBASE.dll   |Windows NT 基本 API 客户端 DLL                  |6.1.7600.16385    |288256  |2009-07-14 09:15:36|C:\Windows\system32                                                                                          |
+|75760000|iertutil.dll     |Run time utility for Internet Explorer          |8.0.7600.16385    |2058240 |2009-07-14 09:15:30|C:\Windows\system32                                                                                          |
+|75960000|ole32.dll        |用于 Windows 的 Microsoft OLE                   |6.1.7600.16385    |1412608 |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|75AC0000|advapi32.dll     |高级 Windows 32 基本 API                        |6.1.7600.16385    |640000  |2009-07-14 09:14:54|C:\Windows\system32                                                                                          |
+|75B60000|urlmon.dll       |Win32 的 OLE32 扩展                             |8.0.7600.16490    |1224704 |2009-12-19 17:02:54|C:\Windows\system32                                                                                          |
+|75CA0000|LPK.dll          |Language Pack                                   |6.1.7600.16385    |26624   |2009-07-14 09:15:38|C:\Windows\system32                                                                                          |
+|75CB0000|WININET.dll      |Win32 的 Internet 扩展                          |8.0.7600.16490    |977920  |2009-12-19 17:02:56|C:\Windows\system32                                                                                          |
+|75DE0000|SETUPAPI.dll     |Windows 安装程序 API                            |6.1.7600.16385    |1668608 |2009-07-14 09:16:16|C:\Windows\system32                                                                                          |
+|75F80000|Normaliz.dll     |Unicode Normalization DLL                       |6.1.7600.16385    |2048    |2009-07-14 09:09:02|C:\Windows\system32                                                                                          |
+|75F90000|imm32.dll        |Multi-User Windows IMM32 API Client DLL         |6.1.7600.16385    |118272  |2009-07-14 09:15:34|C:\Windows\system32                                                                                          |
+|76010000|kernel32.dll     |Windows NT 基本 API 客户端 DLL                  |6.1.7600.16481    |857088  |2009-12-08 19:33:32|C:\Windows\system32                                                                                          |
+|760F0000|oleaut32.dll     |                                                |6.1.7600.16385    |571904  |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|76180000|PSAPI.DLL        |Process Status Helper                           |6.1.7600.16385    |6144    |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|76190000|MSCTF.dll        |MSCTF 服务器 DLL                                |6.1.7600.16385    |828928  |2009-07-14 09:15:44|C:\Windows\system32                                                                                          |
+|76260000|shell32.dll      |Windows 外壳公用 DLL                            |6.1.7600.16385    |12866560|2009-07-14 09:16:16|C:\Windows\system32                                                                                          |
+|76EB0000|USP10.dll        |Uniscribe Unicode script processor              |1.626.7600.16385  |627200  |2009-07-14 09:16:18|C:\Windows\system32                                                                                          |
+|76F50000|msvcrt.dll       |Windows NT CRT DLL                              |7.0.7600.16385    |690688  |2009-07-14 09:15:52|C:\Windows\system32                                                                                          |
+|77000000|WS2_32.dll       |Windows Socket 2.0 32 位 DLL                    |6.1.7600.16385    |206336  |2009-07-14 09:16:22|C:\Windows\system32                                                                                          |
+|77040000|GDI32.dll        |GDI Client DLL                                  |6.1.7600.16385    |304640  |2009-07-14 09:15:24|C:\Windows\system32                                                                                          |
+|77090000|sechost.dll      |Host for SCM/SDDL/LSA Lookup APIs               |6.1.7600.16385    |92160   |2009-07-14 09:16:14|C:\Windows\SYSTEM32                                                                                          |
+|770B0000|SHLWAPI.dll      |外壳简易实用工具库                              |6.1.7600.16385    |350208  |2009-07-14 09:16:16|C:\Windows\system32                                                                                          |
+|77110000|RPCRT4.dll       |远程过程调用运行时                              |6.1.7600.16385    |652288  |2009-07-14 09:16:14|C:\Windows\system32                                                                                          |
+|771C0000|comdlg32.dll     |Common Dialogs DLL                              |6.1.7600.16385    |486912  |2009-07-14 09:15:08|C:\Windows\system32                                                                                          |
+|77240000|USER32.dll       |多用户 Windows 用户 API 客户端 DLL              |6.1.7600.16385    |811520  |2009-07-14 09:16:18|C:\Windows\system32                                                                                          |
+|77310000|ntdll.dll        |NT 层 DLL                                       |6.1.7600.16385    |1286144 |2009-07-14 09:17:52|C:\Windows\SYSTEM32                                                                                          |
+|774A0000|NSI.dll          |NSI User-mode interface DLL                     |6.1.7600.16385    |8704    |2009-07-14 09:16:12|C:\Windows\system32                                                                                          |
+|774B0000|CLBCatQ.DLL      |COM+ Configuration Catalog                      |2001.12.8530.16385|522240  |2009-07-14 09:15:04|C:\Windows\system32                                                                                          |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Registers:
+-----------------------------
+EAX: 0199E740   EDI: 00000000
+EBX: 0000051C   ESI: 01976968
+ECX: 0199E700   ESP: 0012F8C8
+EDX: 00757484   EIP: 0075747F
+
+Stack:               Memory Dump:
+------------------   ---------------------------------------------------------------------------
+0012F8C8: 0012F908   0075747F: E8 88 00 CB FF B8 F0 AC 75 00 E8 A2 B6 FF FF 8D  ........u.......
+0012F8CC: 004C8023   0075748F: 85 98 FC FF FF E8 6F E6 CA FF 50 A1 D4 30 77 00  ......o...P..0w.
+0012F8D0: 0012F8FC   0075749F: 8B 00 50 8B 00 FF 50 1C E8 60 00 CB FF 8D 85 98  ..P...P..`......
+0012F8D4: 0191E918   007574AF: FC FF FF BA 08 AD 75 00 E8 60 E8 CA FF 8B 95 98  ......u..`......
+0012F8D8: 00000000   007574BF: FC FF FF 8D 85 9C FC FF FF E8 8F E0 CA FF 8B 85  ................
+0012F8DC: 019A39E8   007574CF: 9C FC FF FF 8D 8D 78 FE FF FF BA 3F 00 00 00 E8  ......x....?....
+0012F8E0: 00000000   007574DF: 41 45 CB FF 8B D8 85 DB 0F 85 E4 00 00 00 8B 85  AE..............
+0012F8E4: 00000000   007574EF: 88 FE FF FF 83 E0 10 83 F8 10 0F 85 BD 00 00 00  ................
+0012F8E8: 00B5A604   007574FF: 8B 85 8C FE FF FF BA 34 AD 75 00 E8 D5 E1 CA FF  .......4.u......
+0012F8EC: 00B549F4   0075750F: 0F 84 A7 00 00 00 8B 85 8C FE FF FF BA 40 AD 75  .............@.u
+0012F8F0: 00AEE9C8   0075751F: 00 E8 BF E1 CA FF 0F 84 91 00 00 00 8D 85 94 FC  ................
+0012F8F4: 00757484   0075752F: FF FF 8B 8D 8C FE FF FF BA 4C AD 75 00 E8 A3 E0  .........L.u....
+0012F8F8: 8000FFFF   0075753F: CA FF 8B 85 94 FC FF FF E8 E4 B5 FF FF 8D 85 90  ................
+0012F8FC: 0012FF64   0075754F: FC FF FF E8 A5 FE CA FF 50 8D 85 8C FC FF FF 8B  ........P.......
+0012F900: 0040751F   0075755F: 95 8C FE FF FF E8 87 E7 CA FF 8B 85 8C FC FF FF  ................
+0012F904: 00757484   0075756F: 50 8D 85 88 FC FF FF E8 81 FE CA FF 50 8D 85 84  P...........P...
+
